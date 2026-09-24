@@ -24,4 +24,4 @@ Our analysis identified Alex Caruso, Ivica Zubac, and Jarrett Allen as the three
 For additional visualizations, methodology, and detailed results, see the Final Results Presentation pdf.
 
 ## Tools
-Python | SQL | Excel | Power BI | Figma
+Python | Excel | Power BI
