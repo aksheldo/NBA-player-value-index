@@ -18,5 +18,8 @@ Which NBA players provide the most production relative to their annual salary?
 - Compared production measures with annual average salary
 - Analyzed the resulting player-value rankings
 
+## Results
+
+
 ## Tools
 Python | SQL | Excel | Power BI | Figma
